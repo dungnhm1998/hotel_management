@@ -1,2 +1,2 @@
 # hotel_management
-An applycation to manage hotel
+An application to manage hotel
